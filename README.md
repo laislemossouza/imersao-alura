@@ -1,6 +1,8 @@
-## **README.md Descontraído para sua Aplicação**
-
 ### **Central da Inclusão Tech: Sua Busca por Iniciativas, Facilitada!**
+
+**Propósito desta aplicação**
+Este buscador foi desenvolvido na "Imersão Dev com Gemini" da plataforma de cursos Alura.
+Neste link você pode vê-lo funcionando: https://citech-six-lemon.vercel.app/
 
 **O que essa aplicação faz?**
 
